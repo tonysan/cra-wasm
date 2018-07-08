@@ -2,5 +2,5 @@ This is just another react app created with [create-react-app](https://github.co
 
 ### Modifications:
 
-* Move relevant files to `css`, `images`, `tests` folders, so there won't be a `src folder with lots of files
-* `wasm` scaffolding (WIP), need `emcc` to be avaliable on your system (`sudo apt install emscripten` on Ubuntu)
+* Move relevant files to `css`, `images`, `tests` folders, so there won't be a `src` folder with lots of files
+* `wasm` support, need to [setup `emcc`](http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html)
